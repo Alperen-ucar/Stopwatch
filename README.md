@@ -1,7 +1,7 @@
 # Stopwatch
-**Stopwatch APP
+**Stopwatch APP**
 *Includes Minutes, Second and Milisecond*
-Property:
+> Property:
 - start
 - stop
 - restart
